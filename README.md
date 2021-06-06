@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Connor Reardon and I am an Oregon State Business Information Systems student who will be graduating in Spring of 2022.
 
 <!--
 **ReardonC54/ReardonC54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
